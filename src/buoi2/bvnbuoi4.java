@@ -1,4 +1,4 @@
 package buoi2;
 
-public class Buoi2 {
+public class bvnbuoi4 {
 }
